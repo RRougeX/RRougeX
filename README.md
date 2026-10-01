@@ -2,10 +2,6 @@
 
 ###
 
-<img data-importer="image" align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNY64bq2Z8ddvjT7ptLWnC6dvoR4hHB88M3Lg9ln36Q&s=10"  />
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -50,8 +46,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/RRougeX/RRougeX/snake-output/snake.svg" alt="Snake animation" />
 
