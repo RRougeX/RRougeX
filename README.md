@@ -1,8 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="center">Hi my name is Raffaele, but you can call me Raff!</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://www.gettyimages.com/detail/news-photo/michael-jordan-of-the-chicago-bulls-celebrates-winning-the-news-photo/76027850"  />
+<img data-importer="image" align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNY64bq2Z8ddvjT7ptLWnC6dvoR4hHB88M3Lg9ln36Q&s=10"  />
 
 ###
 
@@ -36,14 +36,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="left">
+  <a href="https://discord.gg/onechunk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Mownkei" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/RRougeX/RRougeX/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
